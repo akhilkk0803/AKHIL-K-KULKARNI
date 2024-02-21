@@ -1,7 +1,7 @@
 # About Me 🚀
 
 ## Introduction 🌟
-Hello! I'm AKHIL K KULKARNI, a third-year engineering undergrad with a passion for technology and a focus on Information Science or IT. As a problem solver and full-stack web developer, I thrive on challenges and enjoy crafting seamless digital experiences.
+Hello! I'm AKHIL K KULKARNI, a third-year engineering undergrad with a passion for technology and a focus on Information Science or IT. 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-k-kulkarni-6a2b65223/)
 <a href="https://www.leetcode.com/akhilkk03" target="blank">
