@@ -13,7 +13,7 @@ Hello! I'm AKHIL K KULKARNI, a third-year engineering undergrad at THE NATIONAL 
 ![akhilkk0803's Stats](https://github-readme-stats.vercel.app/api?username=akhilkk0803&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
 ![akhilkk0803's Streak](https://github-readme-streak-stats.herokuapp.com/?user=akhilkk0803&theme=vue-dark&hide_border=true)<br/>
 ![akhilkk0803's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilkk0803&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)---
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=akhilkk0803)
 
 
  
