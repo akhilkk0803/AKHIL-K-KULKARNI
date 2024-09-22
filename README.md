@@ -1,7 +1,7 @@
 # About Me 🚀
 
 ## Introduction 🌟
-Hello! I'm AKHIL K KULKARNI, a third-year engineering undergrad at THE NATIONAL INTITUTE OF ENGNIEERING and a FULL STACK WEB DEVELOPER :)
+Hello! I'm AKHIL K KULKARNI, a third-year engineering undergrad at THE NATIONAL INTITUTE OF ENGNIEERING  :)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akhil-k-kulkarni-6a2b65223/)
 <a href="https://www.leetcode.com/akhilkk03" target="blank">
